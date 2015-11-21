@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>CloZee - OckeFilms Soundtrack 2012 (2013)</title>
+	<trackList>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/01%20-%20CloZee%20-%20Hidden%20Personality.mp3</location>
+			<title>Hidden Personality</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>1</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>147441</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/02%20-%20CloZee%20-%20Gold%20Sand.mp3</location>
+			<title>Gold Sand</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>2</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>140414</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/03%20-%20CloZee%20-%20Street%20POV.mp3</location>
+			<title>Street POV</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>3</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>126255</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/04%20-%20CloZee%20-%20How%20Fast.mp3</location>
+			<title>How Fast</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>4</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>219277</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/05%20-%20CloZee%20-%20Silver%20Wound.mp3</location>
+			<title>Silver Wound</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>5</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>122467</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/06%20-%20CloZee%20-%20FUSION.mp3</location>
+			<title>FUSION</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>6</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>158621</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/07%20-%20CloZee%20-%20Freedom.mp3</location>
+			<title>Freedom</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>7</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>165568</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/08%20-%20CloZee%20-%20Mountain%20Legends.mp3</location>
+			<title>Mountain Legends</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>8</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>211179</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/09%20-%20CloZee%20-%20Enjoy%20Your%20Time.mp3</location>
+			<title>Enjoy Your Time</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>9</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>136782</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/10%20-%20CloZee%20-%20Collapsed%20Purity.mp3</location>
+			<title>Collapsed Purity</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>10</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>158908</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/11%20-%20CloZee%20-%20The%20First%20Step%20Is%20The%20Hardest.mp3</location>
+			<title>The First Step Is The Hardest</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>11</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>197230</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/12%20-%20CloZee%20-%20Gully%20Squal.mp3</location>
+			<title>Gully Squal</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>12</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>137906</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/13%20-%20CloZee%20-%20Colossal.mp3</location>
+			<title>Colossal</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>13</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>146918</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/14%20-%20CloZee%20-%20Raging%20Strings.mp3</location>
+			<title>Raging Strings</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>14</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>124870</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/15%20-%20CloZee%20-%20Cancel.mp3</location>
+			<title>Cancel</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>15</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>138950</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/16%20-%20CloZee%20-%20Give%20Everything%20You%20Have.mp3</location>
+			<title>Give Everything You Have</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>16</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>231293</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/17%20-%20CloZee%20-%20Brief%20Guide%20To%20Take%20Off.mp3</location>
+			<title>Brief Guide To Take Off</title>
+			<creator>CloZee</creator>
+			<album>OckeFilms Soundtrack 2012</album>
+			<trackNum>17</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+			<duration>192711</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+	</extension>
+</playlist>
