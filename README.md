@@ -1,3 +1,2 @@
 # ipfs-playlists
-Free music on IPFS
-EXPERIMENTAL
+Free music on IPFS. EXPERIMENTAL
