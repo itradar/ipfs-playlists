@@ -21,3 +21,6 @@ $IBIN pin add -r /ipfs/QmWskpQx43J8cfBhCFfP56xRqhAq3HZ18zbAsdP4hpnHB5/
 
 echo "PINNING: Diablo Swing Orchestra - The Butchers Ballroom (2009)"
 $IBIN pin add -r /ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/
+
+echo "PINNING: CloZee - OckeFilms Soundtrack 2012 (2013)"
+$IBIN pin add -r /ipfs/QmZqNn8ifNX5u6nqVrqP3hc4WYSqexTW61HKzT14ZGAqcJ/
