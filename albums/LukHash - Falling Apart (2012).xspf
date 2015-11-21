@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>LukHash - Falling Apart (2012)</title>
+	<trackList>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/01-Alpha.mp3</location>
+			<title>ALPHA</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>1</trackNum>
+			<duration>188032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/02-Pixelove.mp3</location>
+			<title>PIXELOVE</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>2</trackNum>
+			<duration>209061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/03-DetachedReality.mp3</location>
+			<title>DETACHED REALITY</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>3</trackNum>
+			<duration>221991</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/04-FallingApart.mp3</location>
+			<title>FALLING APART</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>4</trackNum>
+			<duration>192212</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/05-China.mp3</location>
+			<title>CHINA</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>5</trackNum>
+			<duration>238057</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/06-ComputerDate.mp3</location>
+			<title>COMPUTER DATE</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>6</trackNum>
+			<duration>205821</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/07-Room12.mp3</location>
+			<title>ROOM 12</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>7</trackNum>
+			<duration>172959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/08-BrokenStar.mp3</location>
+			<title>BROKEN STAR</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>8</trackNum>
+			<duration>176538</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/09-65536.mp3</location>
+			<title>65536</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>9</trackNum>
+			<duration>141116</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/10-Gravity.mp3</location>
+			<title>GRAVITY</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>10</trackNum>
+			<duration>166768</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/11-H8U2.mp3</location>
+			<title>H8 U 2</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>11</trackNum>
+			<duration>263787</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/12-R3b0rn.mp3</location>
+			<title>R3B0RN</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>12</trackNum>
+			<duration>256786</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmPw9nW2FQ352ajwkZ2LN5qSUAtKkvztH9RNJ1L7EAhU42/BonusTrack-WokenUp3amv.2.mp3</location>
+			<title>WOKEN UP @ 3AM (V.2)</title>
+			<creator>LukHash</creator>
+			<album>Falling Apart</album>
+			<trackNum>13</trackNum>
+			<annotation>Bonus Track</annotation>
+			<duration>133567</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+	</extension>
+</playlist>

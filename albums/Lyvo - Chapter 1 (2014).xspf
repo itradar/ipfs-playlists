@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lyvo - Chapter 1 (2014)</title>
+	<trackList>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/01%20-%20Lyvo%20-%20unreal.mp3</location>
+			<title>Unreal</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 1</album>
+			<trackNum>1</trackNum>
+			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+			<duration>206294</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/02%20-%20Lyvo%20-%20Seaside.mp3</location>
+			<title>Seaside</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 1</album>
+			<trackNum>2</trackNum>
+			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+			<duration>269797</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/03%20-%20Lyvo%20-%20Hours.mp3</location>
+			<title>Hours</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 1</album>
+			<trackNum>3</trackNum>
+			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+			<duration>243363</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/04%20-%20Lyvo%20-%20Breathe.mp3</location>
+			<title>Breathe</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 1</album>
+			<trackNum>4</trackNum>
+			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+			<duration>428492</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/05%20-%20Lyvo%20-%20Vice.mp3</location>
+			<title>Vice</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 1</album>
+			<trackNum>5</trackNum>
+			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+			<duration>262538</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/06%20-%20Lyvo%20-%20Connection%20Lost.mp3</location>
+			<title>Connection Lost</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 1</album>
+			<trackNum>6</trackNum>
+			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+			<duration>333877</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+	</extension>
+</playlist>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Alumo - Electric (2015)</title>
+	<trackList>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmU6ZQAV8XL7irauf6YbavBusbwWS97eLWJxASDgBD4oRX/01%20-%20alumo%20-%20Into%20the%20Light.mp3</location>
+			<title>Into the Light</title>
+			<creator>Alumo</creator>
+			<album>Electric</album>
+			<trackNum>1</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>163192</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmU6ZQAV8XL7irauf6YbavBusbwWS97eLWJxASDgBD4oRX/02%20-%20alumo%20-%20Touch%20the%20Sky.mp3</location>
+			<title>Touch the Sky</title>
+			<creator>Alumo</creator>
+			<album>Electric</album>
+			<trackNum>2</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>202036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmU6ZQAV8XL7irauf6YbavBusbwWS97eLWJxASDgBD4oRX/03%20-%20alumo%20-%20Universal.mp3</location>
+			<title>Universal</title>
+			<creator>Alumo</creator>
+			<album>Electric</album>
+			<trackNum>3</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>177428</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmU6ZQAV8XL7irauf6YbavBusbwWS97eLWJxASDgBD4oRX/04%20-%20alumo%20-%20Dubstepology.mp3</location>
+			<title>Dubstepology</title>
+			<creator>Alumo</creator>
+			<album>Electric</album>
+			<trackNum>4</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>127769</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmU6ZQAV8XL7irauf6YbavBusbwWS97eLWJxASDgBD4oRX/05%20-%20alumo%20-%20Zeitgeist.mp3</location>
+			<title>Zeitgeist</title>
+			<creator>Alumo</creator>
+			<album>Electric</album>
+			<trackNum>5</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>175286</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmU6ZQAV8XL7irauf6YbavBusbwWS97eLWJxASDgBD4oRX/06%20-%20alumo%20-%20High%20Fidelity.mp3</location>
+			<title>High Fidelity</title>
+			<creator>Alumo</creator>
+			<album>Electric</album>
+			<trackNum>6</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>204047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmU6ZQAV8XL7irauf6YbavBusbwWS97eLWJxASDgBD4oRX/07%20-%20alumo%20-%20Latitude.mp3</location>
+			<title>Latitude</title>
+			<creator>Alumo</creator>
+			<album>Electric</album>
+			<trackNum>7</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>184011</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmU6ZQAV8XL7irauf6YbavBusbwWS97eLWJxASDgBD4oRX/08%20-%20alumo%20-%20Video%20Electro.mp3</location>
+			<title>Video Electro</title>
+			<creator>Alumo</creator>
+			<album>Electric</album>
+			<trackNum>8</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>170401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmU6ZQAV8XL7irauf6YbavBusbwWS97eLWJxASDgBD4oRX/09%20-%20alumo%20-%20All%20The%20Sevens.mp3</location>
+			<title>All The Sevens</title>
+			<creator>Alumo</creator>
+			<album>Electric</album>
+			<trackNum>9</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>328078</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+	</extension>
+</playlist>

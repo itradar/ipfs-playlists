@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lyvo - Chapter 2 (2015)</title>
+	<trackList>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmWskpQx43J8cfBhCFfP56xRqhAq3HZ18zbAsdP4hpnHB5/01%20-%20Lyvo%20-%20Swimming%20Pools.mp3</location>
+			<title>Swimming Pools</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 2</album>
+			<trackNum>1</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>282102</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmWskpQx43J8cfBhCFfP56xRqhAq3HZ18zbAsdP4hpnHB5/02%20-%20Lyvo%20-%20Collateral.mp3</location>
+			<title>Collateral</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 2</album>
+			<trackNum>2</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>204047</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmWskpQx43J8cfBhCFfP56xRqhAq3HZ18zbAsdP4hpnHB5/03%20-%20Lyvo%20-%20Loose%20Ends.mp3</location>
+			<title>Loose Ends</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 2</album>
+			<trackNum>3</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>231764</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmWskpQx43J8cfBhCFfP56xRqhAq3HZ18zbAsdP4hpnHB5/04%20-%20Lyvo%20-%20Ozymandias.mp3</location>
+			<title>Ozymandias</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 2</album>
+			<trackNum>4</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>245713</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmWskpQx43J8cfBhCFfP56xRqhAq3HZ18zbAsdP4hpnHB5/05%20-%20Lyvo%20-%20600%20Days.mp3</location>
+			<title>600 Days</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 2</album>
+			<trackNum>5</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>181948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmWskpQx43J8cfBhCFfP56xRqhAq3HZ18zbAsdP4hpnHB5/06%20-%20Lyvo%20-%20Speed%20of%20Light.mp3</location>
+			<title>Speed of Light</title>
+			<creator>Lyvo</creator>
+			<album>Chapter 2</album>
+			<trackNum>6</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>300048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+	</extension>
+</playlist>

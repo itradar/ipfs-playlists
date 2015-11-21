@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Sweet Play - Colours Of The Day (2015)</title>
+	<trackList>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmX9Xrcg8C6zot8SLRUM7QPupSa7BWBkXteo8Uh45TNNiL/01%20-%20Sweet%20Play%20-%20LIGHT%20OF%20FREEDOM.mp3</location>
+			<title>LIGHT OF FREEDOM</title>
+			<creator>Sweet Play</creator>
+			<album>Colours Of The Day</album>
+			<trackNum>1</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>249841</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmX9Xrcg8C6zot8SLRUM7QPupSa7BWBkXteo8Uh45TNNiL/02%20-%20Sweet%20Play%20-%20LONELY.mp3</location>
+			<title>LONELY</title>
+			<creator>Sweet Play</creator>
+			<album>Colours Of The Day</album>
+			<trackNum>2</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>273376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmX9Xrcg8C6zot8SLRUM7QPupSa7BWBkXteo8Uh45TNNiL/03%20-%20Sweet%20Play%20-%20HEAD%20FAKE.mp3</location>
+			<title>HEAD FAKE</title>
+			<creator>Sweet Play</creator>
+			<album>Colours Of The Day</album>
+			<trackNum>3</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>361802</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmX9Xrcg8C6zot8SLRUM7QPupSa7BWBkXteo8Uh45TNNiL/04%20-%20Sweet%20Play%20-%20THE%20STOLEN%20GIFT.mp3</location>
+			<title>THE STOLEN GIFT</title>
+			<creator>Sweet Play</creator>
+			<album>Colours Of The Day</album>
+			<trackNum>4</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>240045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmX9Xrcg8C6zot8SLRUM7QPupSa7BWBkXteo8Uh45TNNiL/05%20-%20Sweet%20Play%20-%20THE%20ISLAND.mp3</location>
+			<title>THE ISLAND</title>
+			<creator>Sweet Play</creator>
+			<album>Colours Of The Day</album>
+			<trackNum>5</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>234036</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmX9Xrcg8C6zot8SLRUM7QPupSa7BWBkXteo8Uh45TNNiL/06%20-%20Sweet%20Play%20-%20PRECIOUS%20TIME.mp3</location>
+			<title>PRECIOUS TIME</title>
+			<creator>Sweet Play</creator>
+			<album>Colours Of The Day</album>
+			<trackNum>6</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>222150</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmX9Xrcg8C6zot8SLRUM7QPupSa7BWBkXteo8Uh45TNNiL/07%20-%20Sweet%20Play%20-%20LONELY%20-%20REMIX.mp3</location>
+			<title>LONELY - REMIX</title>
+			<creator>Sweet Play</creator>
+			<album>Colours Of The Day</album>
+			<trackNum>7</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>248508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmX9Xrcg8C6zot8SLRUM7QPupSa7BWBkXteo8Uh45TNNiL/08%20-%20Sweet%20Play%20-%20THE%20STOLEN%20GIFT%20-%20REMIX.mp3</location>
+			<title>THE STOLEN GIFT - REMIX</title>
+			<creator>Sweet Play</creator>
+			<album>Colours Of The Day</album>
+			<trackNum>8</trackNum>
+			<annotation>http://www.jamendo.com cc_standard</annotation>
+			<duration>242970</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+	</extension>
+</playlist>

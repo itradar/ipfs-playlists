@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Diablo Swing Orchestra - The Butcher&#39;s Ballroom (2009)</title>
+	<trackList>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/01%20-%20Diablo%20Swing%20Orchestra%20-%20Balrog%20Boogie.mp3</location>
+			<title>Balrog Boogie</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>1</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>233122</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/02%20-%20Diablo%20Swing%20Orchestra%20-%20Heroines.mp3</location>
+			<title>Heroines</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>2</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>321730</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/03%20-%20Diablo%20Swing%20Orchestra%20-%20Poetic%20Pitbull%20Revolutions.mp3</location>
+			<title>Poetic Pitbull Revolutions</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>3</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>287483</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/04%20-%20Diablo%20Swing%20Orchestra%20-%20Rag%20Doll%20Physics.mp3</location>
+			<title>Rag Doll Physics</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>4</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>232678</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/05%20-%20Diablo%20Swing%20Orchestra%20-%20D_angelo.mp3</location>
+			<title>D&#39;angelo</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>5</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>114161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/06%20-%20Diablo%20Swing%20Orchestra%20-%20Velvet%20Embracer.mp3</location>
+			<title>Velvet Embracer</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>6</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>245085</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/07%20-%20Diablo%20Swing%20Orchestra%20-%20Gunpowder%20Chant.mp3</location>
+			<title>Gunpowder Chant</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>7</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>110607</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/08%20-%20Diablo%20Swing%20Orchestra%20-%20Infralove.mp3</location>
+			<title>Infralove</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>8</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>294432</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/09%20-%20Diablo%20Swing%20Orchestra%20-%20Wedding%20March%20for%20a%20Bullet.mp3</location>
+			<title>Wedding March for a Bullet</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>9</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>193415</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/10%20-%20Diablo%20Swing%20Orchestra%20-%20Qualms%20of%20Conscience.mp3</location>
+			<title>Qualms of Conscience</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>10</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>75786</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/11%20-%20Diablo%20Swing%20Orchestra%20-%20Zodiac%20Virtues.mp3</location>
+			<title>Zodiac Virtues</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>11</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>287378</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/12%20-%20Diablo%20Swing%20Orchestra%20-%20Porcelain%20Judas.mp3</location>
+			<title>Porcelain Judas</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>12</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>248821</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/13%20-%20Diablo%20Swing%20Orchestra%20-%20Pink%20Noise%20Waltz.mp3</location>
+			<title>Pink Noise Waltz</title>
+			<creator>Diablo Swing Orchestra</creator>
+			<album>The Butcher&#39;s Ballroom</album>
+			<trackNum>13</trackNum>
+			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+			<duration>364387</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+	</extension>
+</playlist>
