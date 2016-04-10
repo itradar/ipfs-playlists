@@ -1,177 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
-	<title>Diablo Swing Orchestra - The Butcher&#39;s Ballroom (2009)</title>
-	<trackList>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/01%20-%20Diablo%20Swing%20Orchestra%20-%20Balrog%20Boogie.mp3</location>
-			<title>Balrog Boogie</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>1</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>233122</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/02%20-%20Diablo%20Swing%20Orchestra%20-%20Heroines.mp3</location>
-			<title>Heroines</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>2</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>321730</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/03%20-%20Diablo%20Swing%20Orchestra%20-%20Poetic%20Pitbull%20Revolutions.mp3</location>
-			<title>Poetic Pitbull Revolutions</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>3</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>287483</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/04%20-%20Diablo%20Swing%20Orchestra%20-%20Rag%20Doll%20Physics.mp3</location>
-			<title>Rag Doll Physics</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>4</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>232678</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/05%20-%20Diablo%20Swing%20Orchestra%20-%20D_angelo.mp3</location>
-			<title>D&#39;angelo</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>5</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>114161</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/06%20-%20Diablo%20Swing%20Orchestra%20-%20Velvet%20Embracer.mp3</location>
-			<title>Velvet Embracer</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>6</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>245085</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/07%20-%20Diablo%20Swing%20Orchestra%20-%20Gunpowder%20Chant.mp3</location>
-			<title>Gunpowder Chant</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>7</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>110607</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/08%20-%20Diablo%20Swing%20Orchestra%20-%20Infralove.mp3</location>
-			<title>Infralove</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>8</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>294432</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/09%20-%20Diablo%20Swing%20Orchestra%20-%20Wedding%20March%20for%20a%20Bullet.mp3</location>
-			<title>Wedding March for a Bullet</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>9</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>193415</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/10%20-%20Diablo%20Swing%20Orchestra%20-%20Qualms%20of%20Conscience.mp3</location>
-			<title>Qualms of Conscience</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>10</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>75786</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/11%20-%20Diablo%20Swing%20Orchestra%20-%20Zodiac%20Virtues.mp3</location>
-			<title>Zodiac Virtues</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>11</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>287378</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/12%20-%20Diablo%20Swing%20Orchestra%20-%20Porcelain%20Judas.mp3</location>
-			<title>Porcelain Judas</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>12</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>248821</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>11</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/13%20-%20Diablo%20Swing%20Orchestra%20-%20Pink%20Noise%20Waltz.mp3</location>
-			<title>Pink Noise Waltz</title>
-			<creator>Diablo Swing Orchestra</creator>
-			<album>The Butcher&#39;s Ballroom</album>
-			<trackNum>13</trackNum>
-			<annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
-			<duration>364387</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>12</vlc:id>
-			</extension>
-		</track>
-	</trackList>
-	<extension application="http://www.videolan.org/vlc/playlist/0">
-			<vlc:item tid="0"/>
-			<vlc:item tid="1"/>
-			<vlc:item tid="2"/>
-			<vlc:item tid="3"/>
-			<vlc:item tid="4"/>
-			<vlc:item tid="5"/>
-			<vlc:item tid="6"/>
-			<vlc:item tid="7"/>
-			<vlc:item tid="8"/>
-			<vlc:item tid="9"/>
-			<vlc:item tid="10"/>
-			<vlc:item tid="11"/>
-			<vlc:item tid="12"/>
-	</extension>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>Diablo Swing Orchestra - The Butchers Ballroom (2009)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/01%20-%20Diablo%20Swing%20Orchestra%20-%20Balrog%20Boogie.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Balrog Boogie</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>1</trackNum>
+      <duration>233082</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">221</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/02%20-%20Diablo%20Swing%20Orchestra%20-%20Heroines.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Heroines</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>2</trackNum>
+      <duration>321697</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">201</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/03%20-%20Diablo%20Swing%20Orchestra%20-%20Poetic%20Pitbull%20Revolutions.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Poetic Pitbull Revolutions</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>3</trackNum>
+      <duration>287433</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">217</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/04%20-%20Diablo%20Swing%20Orchestra%20-%20Rag%20Doll%20Physics.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Rag Doll Physics</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>4</trackNum>
+      <duration>232633</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">206</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/05%20-%20Diablo%20Swing%20Orchestra%20-%20D_angelo.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>D'angelo</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>5</trackNum>
+      <duration>114111</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">168</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/06%20-%20Diablo%20Swing%20Orchestra%20-%20Velvet%20Embracer.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Velvet Embracer</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>6</trackNum>
+      <duration>245043</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">214</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/07%20-%20Diablo%20Swing%20Orchestra%20-%20Gunpowder%20Chant.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Gunpowder Chant</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>7</trackNum>
+      <duration>110551</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">216</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/08%20-%20Diablo%20Swing%20Orchestra%20-%20Infralove.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Infralove</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>8</trackNum>
+      <duration>294400</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">215</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/09%20-%20Diablo%20Swing%20Orchestra%20-%20Wedding%20March%20for%20a%20Bullet.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Wedding March for a Bullet</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>9</trackNum>
+      <duration>193366</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">216</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/10%20-%20Diablo%20Swing%20Orchestra%20-%20Qualms%20of%20Conscience.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Qualms of Conscience</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>10</trackNum>
+      <duration>75751</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">189</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/11%20-%20Diablo%20Swing%20Orchestra%20-%20Zodiac%20Virtues.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Zodiac Virtues</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>11</trackNum>
+      <duration>287341</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">210</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/12%20-%20Diablo%20Swing%20Orchestra%20-%20Porcelain%20Judas.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Porcelain Judas</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>12</trackNum>
+      <duration>248783</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">232</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmdWmWF1vN5fykDZt3MexyoPEPYVBFd1obYcdgMUfgBfBf/13%20-%20Diablo%20Swing%20Orchestra%20-%20Pink%20Noise%20Waltz.mp3</location>
+      <creator>Diablo Swing Orchestra</creator>
+      <title>Pink Noise Waltz</title>
+      <album>The Butcher's Ballroom</album>
+      <annotation>http://www.jamendo.com Attribution-Noncommercial-No Derivative Works 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>13</trackNum>
+      <duration>364339</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2009-07-24T09:46:39+01:00 Diablo Swing Orchestra. Licensed to the public under http://creativecommons.org/licenses/by-nc-nd/3.0/ verify at http://www.jamendo.com/album/49216/</meta>
+      <meta rel="bitrate">214</meta>
+    </track>
+  </trackList>
 </playlist>

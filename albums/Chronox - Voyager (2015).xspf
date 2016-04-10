@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>Chronox - Voyager (2015)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNsSeGtwNrFCk7LLufwhKsTWURHLbp1xSZP2ZiKUzAXzF/Chronox_-_01_-_The_Launch.mp3</location>
+      <creator>Chronox</creator>
+      <title>The Launch</title>
+      <album>Voyager</album>
+      <annotation>URL: http://freemusicarchive.org/music/Chronox_2/Voyager/Chronox_-_01_-_The_Launch&#13;
+Comments: http://freemusicarchive.org/&#13;
+Curator: ccCommunity&#13;
+Copyright: Attribution: http://creativecommons.org/licenses/by/4.0/</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>1</trackNum>
+      <duration>258484</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">Attribution: http://creativecommons.org/licenses/by/4.0/</meta>
+      <meta rel="date">2015-09-17 17:05:27</meta>
+      <meta rel="bitrate">319</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNsSeGtwNrFCk7LLufwhKsTWURHLbp1xSZP2ZiKUzAXzF/Chronox_-_02_-_Final_Flight.mp3</location>
+      <creator>Chronox</creator>
+      <title>Final Flight</title>
+      <album>Voyager</album>
+      <annotation>URL: http://freemusicarchive.org/music/Chronox_2/Voyager/Chronox_-_04_-_Final_Flight&#13;
+Comments: http://freemusicarchive.org/&#13;
+Curator: ccCommunity&#13;
+Copyright: Attribution: http://creativecommons.org/licenses/by/4.0/</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>2</trackNum>
+      <duration>219882</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">Attribution: http://creativecommons.org/licenses/by/4.0/</meta>
+      <meta rel="date">2015-09-17 17:05:28</meta>
+      <meta rel="bitrate">319</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNsSeGtwNrFCk7LLufwhKsTWURHLbp1xSZP2ZiKUzAXzF/Chronox_-_03_-_In_Orbit.mp3</location>
+      <creator>Chronox</creator>
+      <title>In Orbit</title>
+      <album>Voyager</album>
+      <annotation>URL: http://freemusicarchive.org/music/Chronox_2/Voyager/Chronox_-_02_-_In_Orbit&#13;
+Comments: http://freemusicarchive.org/&#13;
+Curator: ccCommunity&#13;
+Copyright: Attribution: http://creativecommons.org/licenses/by/4.0/</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>3</trackNum>
+      <duration>202865</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">Attribution: http://creativecommons.org/licenses/by/4.0/</meta>
+      <meta rel="date">2015-09-17 17:05:30</meta>
+      <meta rel="bitrate">319</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNsSeGtwNrFCk7LLufwhKsTWURHLbp1xSZP2ZiKUzAXzF/Chronox_-_04_-_Juno.mp3</location>
+      <creator>Chronox</creator>
+      <title>Juno</title>
+      <album>Voyager</album>
+      <annotation>URL: http://freemusicarchive.org/music/Chronox_2/Voyager/Chronox_-_03_-_Juno&#13;
+Comments: http://freemusicarchive.org/&#13;
+Curator: ccCommunity&#13;
+Copyright: Attribution: http://creativecommons.org/licenses/by/4.0/</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>4</trackNum>
+      <duration>258667</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">Attribution: http://creativecommons.org/licenses/by/4.0/</meta>
+      <meta rel="date">2015-09-17 17:05:31</meta>
+      <meta rel="bitrate">319</meta>
+    </track>
+  </trackList>
+</playlist>

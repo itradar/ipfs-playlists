@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>zero-project - Untold stories of a dying moon (2012)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2001%20-%20The%20dance%20of%20the%20shadows.mp3</location>
+      <creator>zero-project</creator>
+      <title>The dance of the shadows</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>1</trackNum>
+      <duration>288000</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2002%20-%20A%20forgotten%20promise.mp3</location>
+      <creator>zero-project</creator>
+      <title>A forgotten promise</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>2</trackNum>
+      <duration>234760</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2003%20-%20The%20secret%20passion.mp3</location>
+      <creator>zero-project</creator>
+      <title>The secret passion</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>3</trackNum>
+      <duration>164560</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2004%20-%20Moonlight%20No%201.mp3</location>
+      <creator>zero-project</creator>
+      <title>Moonlight No. 1</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>4</trackNum>
+      <duration>259520</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2005%20-%20Appassionata.mp3</location>
+      <creator>zero-project</creator>
+      <title>Appassionata</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>5</trackNum>
+      <duration>287093</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2006%20-%20Moonlight%20No%202.mp3</location>
+      <creator>zero-project</creator>
+      <title>Moonlight No. 2</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>6</trackNum>
+      <duration>270853</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2007%20-%20Into%20the%20darkness.mp3</location>
+      <creator>zero-project</creator>
+      <title>Into the darkness</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>7</trackNum>
+      <duration>410053</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2008%20-%20The%20wind%20of%20oblivion.mp3</location>
+      <creator>zero-project</creator>
+      <title>The wind of oblivion</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>8</trackNum>
+      <duration>384853</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2009%20-%20The%20darkest%20hour.mp3</location>
+      <creator>zero-project</creator>
+      <title>The darkest hour</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>9</trackNum>
+      <duration>242173</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2010%20-%20Back%20to%20zero.mp3</location>
+      <creator>zero-project</creator>
+      <title>Back to zero</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>10</trackNum>
+      <duration>343200</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2011%20-%20Silent%20dreams.mp3</location>
+      <creator>zero-project</creator>
+      <title>Silent dreams</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>11</trackNum>
+      <duration>384000</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2012%20-%20The%20path%20of%20the%20lost%20thoughts.mp3</location>
+      <creator>zero-project</creator>
+      <title>The path of the lost thoughts</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>12</trackNum>
+      <duration>547186</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2013%20-%20Romance.mp3</location>
+      <creator>zero-project</creator>
+      <title>Romance</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>13</trackNum>
+      <duration>384000</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmZHTg1yBjjXKovxBwMoKWXt4Vz6mUDLq7sVjsX8AP4zjH/zero-project%20-%2014%20-%20Memories%20of%20the%20moon.mp3</location>
+      <creator>zero-project</creator>
+      <title>Memories of the moon</title>
+      <album>Untold stories of a dying moon</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>14</trackNum>
+      <duration>568613</duration>
+      <meta rel="year">2012</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>The Kyoto Connection - FATHER | SON (2011)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmY4UpKhN1ExemGiL8CDkfZ34rNRbzToA21P5yDpZxnu4w/01%20Entrance%20Into%20Nebula.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Entrance Into Nebula</title>
+      <album>FATHER | SON</album>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>1</trackNum>
+      <duration>120080</duration>
+      <meta rel="year">2011</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmY4UpKhN1ExemGiL8CDkfZ34rNRbzToA21P5yDpZxnu4w/02%20Shine%20for%20the%20rest%20of%20Us.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Shine for the rest of Us</title>
+      <album>FATHER | SON</album>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>2</trackNum>
+      <duration>243990</duration>
+      <meta rel="year">2011</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmY4UpKhN1ExemGiL8CDkfZ34rNRbzToA21P5yDpZxnu4w/03%20Growing%20Up.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Growing Up</title>
+      <album>FATHER | SON</album>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>3</trackNum>
+      <duration>332897</duration>
+      <meta rel="year">2011</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmY4UpKhN1ExemGiL8CDkfZ34rNRbzToA21P5yDpZxnu4w/04%20Enter%20the%20Vortex.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Enter the Vortex</title>
+      <album>FATHER | SON</album>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>4</trackNum>
+      <duration>197128</duration>
+      <meta rel="year">2011</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmY4UpKhN1ExemGiL8CDkfZ34rNRbzToA21P5yDpZxnu4w/05%20In%20the%20middle%20of%20Somewhere.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>In the middle of Somewhere</title>
+      <album>FATHER | SON</album>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>5</trackNum>
+      <duration>380544</duration>
+      <meta rel="year">2011</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmY4UpKhN1ExemGiL8CDkfZ34rNRbzToA21P5yDpZxnu4w/06%20The%20last%20days%20of%20a%20Samurai%20Soul.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>The last days of a Samurai Soul</title>
+      <album>FATHER | SON</album>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>6</trackNum>
+      <duration>213355</duration>
+      <meta rel="year">2011</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmY4UpKhN1ExemGiL8CDkfZ34rNRbzToA21P5yDpZxnu4w/07%20Full%20Circle.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Full Circle</title>
+      <album>FATHER | SON</album>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>7</trackNum>
+      <duration>225152</duration>
+      <meta rel="year">2011</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+  </trackList>
+</playlist>

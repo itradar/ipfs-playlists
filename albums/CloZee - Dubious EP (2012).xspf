@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>CloZee - Dubious EP (2012)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmRgUPtcMzDZRmTSP71wDpVJUbDCEiLTdAB7H9ap5XYZRw/01%20-%20CloZee%20-%20Dubious.mp3</location>
+      <creator>CloZee</creator>
+      <title>Dubious</title>
+      <album>Dubious EP</album>
+      <annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>1</trackNum>
+      <duration>292187</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2013-08-03T21:16:25+01:00 CloZee. Licensed to the public under http://creativecommons.org/licenses/by-sa/3.0/ verify at http://www.jamendo.com/album/124169/</meta>
+      <meta rel="bitrate">215</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmRgUPtcMzDZRmTSP71wDpVJUbDCEiLTdAB7H9ap5XYZRw/02%20-%20CloZee%20-%20Focused.mp3</location>
+      <creator>CloZee</creator>
+      <title>Focused</title>
+      <album>Dubious EP</album>
+      <annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>2</trackNum>
+      <duration>224856</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2013-08-03T21:16:25+01:00 CloZee. Licensed to the public under http://creativecommons.org/licenses/by-sa/3.0/ verify at http://www.jamendo.com/album/124169/</meta>
+      <meta rel="bitrate">193</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmRgUPtcMzDZRmTSP71wDpVJUbDCEiLTdAB7H9ap5XYZRw/03%20-%20CloZee%20-%20Unexpected.mp3</location>
+      <creator>CloZee</creator>
+      <title>Unexpected</title>
+      <album>Dubious EP</album>
+      <annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>3</trackNum>
+      <duration>227353</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2013-08-03T21:16:25+01:00 CloZee. Licensed to the public under http://creativecommons.org/licenses/by-sa/3.0/ verify at http://www.jamendo.com/album/124169/</meta>
+      <meta rel="bitrate">190</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmRgUPtcMzDZRmTSP71wDpVJUbDCEiLTdAB7H9ap5XYZRw/04%20-%20CloZee%20-%20Disoriented.mp3</location>
+      <creator>CloZee</creator>
+      <title>Disoriented</title>
+      <album>Dubious EP</album>
+      <annotation>http://www.jamendo.com Attribution-Share Alike 3.0</annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>4</trackNum>
+      <duration>275224</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2013-08-03T21:16:25+01:00 CloZee. Licensed to the public under http://creativecommons.org/licenses/by-sa/3.0/ verify at http://www.jamendo.com/album/124169/</meta>
+      <meta rel="bitrate">210</meta>
+    </track>
+  </trackList>
+</playlist>

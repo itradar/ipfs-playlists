@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>zero-project - Fairytale 2: The orchestral expansion (2010)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWPBJ5wUhfx1MEYjM1xn2Hoydo2GycqVx5QPC6ZGcTGHb/zero-project%20-%2001%20-%20Valley%20of%20tears.mp3</location>
+      <creator>zero-project</creator>
+      <title>Valley of tears</title>
+      <album>Fairytale 2: The orchestral expansion</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>1</trackNum>
+      <duration>230249</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">163</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWPBJ5wUhfx1MEYjM1xn2Hoydo2GycqVx5QPC6ZGcTGHb/zero-project%20-%2002%20-%20Pactum%20serva.mp3</location>
+      <creator>zero-project</creator>
+      <title>Pactum serva</title>
+      <album>Fairytale 2: The orchestral expansion</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>2</trackNum>
+      <duration>231789</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">163</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWPBJ5wUhfx1MEYjM1xn2Hoydo2GycqVx5QPC6ZGcTGHb/zero-project%20-%2003%20-%20Lux%20aeterna.mp3</location>
+      <creator>zero-project</creator>
+      <title>Lux aeterna</title>
+      <album>Fairytale 2: The orchestral expansion</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>3</trackNum>
+      <duration>300782</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">162</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWPBJ5wUhfx1MEYjM1xn2Hoydo2GycqVx5QPC6ZGcTGHb/zero-project%20-%2004%20-%20Benedictus.mp3</location>
+      <creator>zero-project</creator>
+      <title>Benedictus</title>
+      <album>Fairytale 2: The orchestral expansion</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>4</trackNum>
+      <duration>221333</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">163</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWPBJ5wUhfx1MEYjM1xn2Hoydo2GycqVx5QPC6ZGcTGHb/zero-project%20-%2005%20-%20The%20past%20ages%20of%20glory.mp3</location>
+      <creator>zero-project</creator>
+      <title>The past ages of glory</title>
+      <album>Fairytale 2: The orchestral expansion</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>5</trackNum>
+      <duration>369921</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+  </trackList>
+</playlist>

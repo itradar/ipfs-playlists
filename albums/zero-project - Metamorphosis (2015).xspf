@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>zero-project - Metamorphosis (2015)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2001%20-%20The%20crossroads%20of%20change.mp3</location>
+      <creator>zero-project</creator>
+      <title>The crossroads of change</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>1</trackNum>
+      <duration>261800</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">167</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2002%20-%20The%20preparation.mp3</location>
+      <creator>zero-project</creator>
+      <title>The preparation</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>2</trackNum>
+      <duration>248720</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">168</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2003%20-%20Path%20to%20innocence.mp3</location>
+      <creator>zero-project</creator>
+      <title>Path to innocence</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>3</trackNum>
+      <duration>332173</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">166</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2004%20-%20The%20light%20of%20truth.mp3</location>
+      <creator>zero-project</creator>
+      <title>The light of truth</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>4</trackNum>
+      <duration>147266</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">173</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2005%20-%20Metamorphosis.mp3</location>
+      <creator>zero-project</creator>
+      <title>Metamorphosis</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>5</trackNum>
+      <duration>475626</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">164</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2006%20-%20The%20call%20of%20the%20desert.mp3</location>
+      <creator>zero-project</creator>
+      <title>The call of the desert</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>6</trackNum>
+      <duration>377133</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">165</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2007%20-%20Eastern%20illusion.mp3</location>
+      <creator>zero-project</creator>
+      <title>Eastern illusion</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>7</trackNum>
+      <duration>349706</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">165</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2008%20-%20Desert%20queen.mp3</location>
+      <creator>zero-project</creator>
+      <title>Desert queen</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>8</trackNum>
+      <duration>148800</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">173</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2009%20-%20Behind%20the%20veil.mp3</location>
+      <creator>zero-project</creator>
+      <title>Behind the veil</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>9</trackNum>
+      <duration>161093</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">172</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2010%20-%20Oasis.mp3</location>
+      <creator>zero-project</creator>
+      <title>Oasis</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>10</trackNum>
+      <duration>356000</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">165</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2011%20-%20The%20passage.mp3</location>
+      <creator>zero-project</creator>
+      <title>The passage</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>11</trackNum>
+      <duration>264000</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">167</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmQ1YmsgqcNEetNzNwVkyS4jWeHV9aoApDBKbszcuXEiec/zero-project%20-%2012%20-%20Deep%20in%20the%20ancient%20forest.mp3</location>
+      <creator>zero-project</creator>
+      <title>Deep in the ancient forest</title>
+      <album>Metamorphosis</album>
+      <annotation>﻿www.zero-project.gr</annotation>
+      <meta rel="genre">New Age</meta>
+      <trackNum>12</trackNum>
+      <duration>252000</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">168</meta>
+    </track>
+  </trackList>
+</playlist>

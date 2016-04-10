@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>tryad - listen (2006)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2001%20struttin%27.mp3</location>
+      <creator>tryad</creator>
+      <title>struttin'</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>1</trackNum>
+      <duration>242306</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">264</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2002%20breathe.mp3</location>
+      <creator>tryad</creator>
+      <title>breathe</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>2</trackNum>
+      <duration>384226</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">245</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2003%20alone.mp3</location>
+      <creator>tryad</creator>
+      <title>alone</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>3</trackNum>
+      <duration>256000</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">233</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2004%20listen.mp3</location>
+      <creator>tryad</creator>
+      <title>listen</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>4</trackNum>
+      <duration>324493</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">247</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2005%20you%20are%20god.mp3</location>
+      <creator>tryad</creator>
+      <title>you are god</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>5</trackNum>
+      <duration>285066</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">286</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2006%20lovely.mp3</location>
+      <creator>tryad</creator>
+      <title>lovely</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>6</trackNum>
+      <duration>313413</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">238</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2007%20beauty.mp3</location>
+      <creator>tryad</creator>
+      <title>beauty</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>7</trackNum>
+      <duration>255853</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">249</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2008%20empty.mp3</location>
+      <creator>tryad</creator>
+      <title>empty</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>8</trackNum>
+      <duration>332026</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">248</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2009%20mesmerize.mp3</location>
+      <creator>tryad</creator>
+      <title>mesmerize</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>9</trackNum>
+      <duration>273000</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">228</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2010%20all%20the%20same.mp3</location>
+      <creator>tryad</creator>
+      <title>all the same</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>10</trackNum>
+      <duration>326426</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">224</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2011%20this.mp3</location>
+      <creator>tryad</creator>
+      <title>this</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>11</trackNum>
+      <duration>293786</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">271</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2012%20waltz%20into%20the%20moonlight.mp3</location>
+      <creator>tryad</creator>
+      <title>waltz into the moonlight</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>12</trackNum>
+      <duration>461573</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">239</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNk96TRKk72B3iimy7dh4RpD5TqKqAoSaVDUQtkVV6P47/tryad%20-%20listen%20-%2013%20far%20and%20away.mp3</location>
+      <creator>tryad</creator>
+      <title>far and away</title>
+      <album>listen</album>
+      <annotation>﻿Visit http://tryad.bandcamp.com</annotation>
+      <trackNum>13</trackNum>
+      <duration>201520</duration>
+      <meta rel="year">2006</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">232</meta>
+    </track>
+  </trackList>
+</playlist>

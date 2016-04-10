@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>The Kyoto Connection - TEN (The Best Of) (2015)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/1.%20Fly.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Fly</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>1</trackNum>
+      <duration>219519</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/2.%20Shine%20for%20the%20Rest%20of%20Us.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Shine for the Rest of Us</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>2</trackNum>
+      <duration>253192</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/3.%20Samurai%20Spirit.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Samurai Spirit</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>3</trackNum>
+      <duration>322181</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/4.%20Geisha.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Geisha</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>4</trackNum>
+      <duration>274795</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/5.%20The%20Space%20Between%20Us.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>The Space Between Us</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>5</trackNum>
+      <duration>296973</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/6.%20The%20Prisoner.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>The Prisoner</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>6</trackNum>
+      <duration>243761</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/7.%20Take%20on%20Me.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Take on Me</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>7</trackNum>
+      <duration>298096</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/8.%20Painting%20With%20Lights.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Painting With Lights</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>8</trackNum>
+      <duration>273541</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/9.%20The%20Music%20In%20You.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>The Music In You</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>9</trackNum>
+      <duration>230073</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/10.%20Close%20Your%20Eyes.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Close Your Eyes</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>10</trackNum>
+      <duration>269701</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/11.%20Vista%20Panoramica.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Vista Panoramica</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>11</trackNum>
+      <duration>243318</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/12.%20The%20Last%20Days%20of%20a%20Samurai%20Soul.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>The Last Days of a Samurai Soul</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>12</trackNum>
+      <duration>201209</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/13.%20Hachiko%20%28The%20Faithtful%20Dog%29.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Hachiko (The Faithtful Dog)</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>13</trackNum>
+      <duration>192432</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/14.%20Christmas%20in%20Japan.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Christmas in Japan</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>14</trackNum>
+      <duration>308075</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/15.%20Loneliness%20Radar.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Loneliness Radar</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>15</trackNum>
+      <duration>240418</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/16.%20Kyoto.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Kyoto</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>16</trackNum>
+      <duration>249822</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/17.%20Waterfall.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Waterfall</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>17</trackNum>
+      <duration>271556</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/18.%20Samurai%20Spirit%20%28Unplugged%29.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Samurai Spirit (Unplugged)</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>18</trackNum>
+      <duration>247289</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/19.%20The%20Prisoner%20%28Unplugged%29.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>The Prisoner (Unplugged)</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>19</trackNum>
+      <duration>215080</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmcB8DKXf1aNzPhNHrhEoU7XWiFoC21LPLXH5yEN4XXdNd/20.%20The%20Japanese%20Garden.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>The Japanese Garden</title>
+      <album>TEN (The Best Of)</album>
+      <meta rel="genre">Pop</meta>
+      <trackNum>20</trackNum>
+      <duration>271295</duration>
+      <meta rel="year">2015</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="bitrate">191</meta>
+    </track>
+  </trackList>
+</playlist>

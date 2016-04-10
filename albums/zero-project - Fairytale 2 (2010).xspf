@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>zero-project - Fairytale 2 (2010)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2001%20-%20Once%20upon%20a%20time.mp3</location>
+      <creator>zero-project</creator>
+      <title>Once upon a time</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>1</trackNum>
+      <duration>225499</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">163</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2002%20-%20First%20night%20at%20the%20Wood%20Elf%20Forest.mp3</location>
+      <creator>zero-project</creator>
+      <title>First night at the Wood Elf Forest</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>2</trackNum>
+      <duration>421999</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2003%20-%20Sunrise%20over%20the%20misty%20mountains.mp3</location>
+      <creator>zero-project</creator>
+      <title>Sunrise over the misty mountains</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>3</trackNum>
+      <duration>194699</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">164</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2004%20-%20The%20age%20of%20the%20Unicorn.mp3</location>
+      <creator>zero-project</creator>
+      <title>The age of the Unicorn</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>4</trackNum>
+      <duration>405600</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">162</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2005%20-%20Whispering%20wind.mp3</location>
+      <creator>zero-project</creator>
+      <title>Whispering wind</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>5</trackNum>
+      <duration>422400</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2006%20-%20The%20age%20of%20the%20Empire.mp3</location>
+      <creator>zero-project</creator>
+      <title>The age of the Empire</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>6</trackNum>
+      <duration>232666</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">163</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2007%20-%20The%20ride%20of%20the%20Dark%20Knight.mp3</location>
+      <creator>zero-project</creator>
+      <title>The ride of the Dark Knight</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>7</trackNum>
+      <duration>187159</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">164</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2008%20-%20The%20defeat%20of%20the%20Demon%20King.mp3</location>
+      <creator>zero-project</creator>
+      <title>The defeat of the Demon King</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>8</trackNum>
+      <duration>248154</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">163</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2009%20-%20Homecoming.mp3</location>
+      <creator>zero-project</creator>
+      <title>Homecoming</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>9</trackNum>
+      <duration>156000</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">165</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2010%20-%20Thanks%20to%20the%20gods.mp3</location>
+      <creator>zero-project</creator>
+      <title>Thanks to the gods</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>10</trackNum>
+      <duration>228724</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">163</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2011%20-%20The%20lower%20dungeons.mp3</location>
+      <creator>zero-project</creator>
+      <title>The lower dungeons</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>11</trackNum>
+      <duration>409600</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2012%20-%20The%20dark%20ages.mp3</location>
+      <creator>zero-project</creator>
+      <title>The dark ages</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>12</trackNum>
+      <duration>320249</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">162</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2013%20-%20Prophecy.mp3</location>
+      <creator>zero-project</creator>
+      <title>Prophecy</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>13</trackNum>
+      <duration>445999</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2014%20-%20The%20crusader%27s%20return.mp3</location>
+      <creator>zero-project</creator>
+      <title>The crusader's return</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>14</trackNum>
+      <duration>143099</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">165</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2015%20-%20For%20the%20love%20of%20the%20Wood%20Elf%20Princess.mp3</location>
+      <creator>zero-project</creator>
+      <title>For the love of the Wood Elf Princess</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>15</trackNum>
+      <duration>280285</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">162</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2016%20-%20The%20secret%20book%20of%20dreams.mp3</location>
+      <creator>zero-project</creator>
+      <title>The secret book of dreams</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>16</trackNum>
+      <duration>249937</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">163</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmWxBb8Hyv6gTKR4Vuf41FEgy7oEMA9mYnbY8y2N6BfFpq/zero-project%20-%2017%20-%20Ever%20after.mp3</location>
+      <creator>zero-project</creator>
+      <title>Ever after</title>
+      <album>Fairytale 2</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>17</trackNum>
+      <duration>221999</duration>
+      <meta rel="year">2010</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">163</meta>
+    </track>
+  </trackList>
+</playlist>

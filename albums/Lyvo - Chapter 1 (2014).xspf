@@ -1,86 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
-	<title>Lyvo - Chapter 1 (2014)</title>
-	<trackList>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/01%20-%20Lyvo%20-%20unreal.mp3</location>
-			<title>Unreal</title>
-			<creator>Lyvo</creator>
-			<album>Chapter 1</album>
-			<trackNum>1</trackNum>
-			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
-			<duration>206294</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/02%20-%20Lyvo%20-%20Seaside.mp3</location>
-			<title>Seaside</title>
-			<creator>Lyvo</creator>
-			<album>Chapter 1</album>
-			<trackNum>2</trackNum>
-			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
-			<duration>269797</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/03%20-%20Lyvo%20-%20Hours.mp3</location>
-			<title>Hours</title>
-			<creator>Lyvo</creator>
-			<album>Chapter 1</album>
-			<trackNum>3</trackNum>
-			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
-			<duration>243363</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/04%20-%20Lyvo%20-%20Breathe.mp3</location>
-			<title>Breathe</title>
-			<creator>Lyvo</creator>
-			<album>Chapter 1</album>
-			<trackNum>4</trackNum>
-			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
-			<duration>428492</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/05%20-%20Lyvo%20-%20Vice.mp3</location>
-			<title>Vice</title>
-			<creator>Lyvo</creator>
-			<album>Chapter 1</album>
-			<trackNum>5</trackNum>
-			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
-			<duration>262538</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/06%20-%20Lyvo%20-%20Connection%20Lost.mp3</location>
-			<title>Connection Lost</title>
-			<creator>Lyvo</creator>
-			<album>Chapter 1</album>
-			<trackNum>6</trackNum>
-			<annotation>http://www.jamendo.com Attribution 3.0 </annotation>
-			<duration>333877</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
-			</extension>
-		</track>
-	</trackList>
-	<extension application="http://www.videolan.org/vlc/playlist/0">
-			<vlc:item tid="0"/>
-			<vlc:item tid="1"/>
-			<vlc:item tid="2"/>
-			<vlc:item tid="3"/>
-			<vlc:item tid="4"/>
-			<vlc:item tid="5"/>
-	</extension>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>Lyvo - Chapter 1 (2014)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/01%20-%20Lyvo%20-%20unreal.mp3</location>
+      <creator>Lyvo</creator>
+      <title>Unreal</title>
+      <album>Chapter 1</album>
+      <annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>1</trackNum>
+      <duration>206250</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2014-12-04T11:55:13+01:00 Lyvo. Licensed to the public under http://creativecommons.org/licenses/by/3.0/ verify at http://www.jamendo.com/album/141026/</meta>
+      <meta rel="bitrate">193</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/02%20-%20Lyvo%20-%20Seaside.mp3</location>
+      <creator>Lyvo</creator>
+      <title>Seaside</title>
+      <album>Chapter 1</album>
+      <annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>2</trackNum>
+      <duration>269760</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2014-12-04T11:55:13+01:00 Lyvo. Licensed to the public under http://creativecommons.org/licenses/by/3.0/ verify at http://www.jamendo.com/album/141026/</meta>
+      <meta rel="bitrate">204</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/03%20-%20Lyvo%20-%20Hours.mp3</location>
+      <creator>Lyvo</creator>
+      <title>Hours</title>
+      <album>Chapter 1</album>
+      <annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>3</trackNum>
+      <duration>243307</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2014-12-04T11:55:13+01:00 Lyvo. Licensed to the public under http://creativecommons.org/licenses/by/3.0/ verify at http://www.jamendo.com/album/141026/</meta>
+      <meta rel="bitrate">179</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/04%20-%20Lyvo%20-%20Breathe.mp3</location>
+      <creator>Lyvo</creator>
+      <title>Breathe</title>
+      <album>Chapter 1</album>
+      <annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>4</trackNum>
+      <duration>428437</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2014-12-04T11:55:13+01:00 Lyvo. Licensed to the public under http://creativecommons.org/licenses/by/3.0/ verify at http://www.jamendo.com/album/141026/</meta>
+      <meta rel="bitrate">212</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/05%20-%20Lyvo%20-%20Vice.mp3</location>
+      <creator>Lyvo</creator>
+      <title>Vice</title>
+      <album>Chapter 1</album>
+      <annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>5</trackNum>
+      <duration>262500</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2014-12-04T11:55:13+01:00 Lyvo. Licensed to the public under http://creativecommons.org/licenses/by/3.0/ verify at http://www.jamendo.com/album/141026/</meta>
+      <meta rel="bitrate">166</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmYU88P5gMDoHKeLWR3XuPSDcLkYuh7ZMRjyhTqeeVcwzo/06%20-%20Lyvo%20-%20Connection%20Lost.mp3</location>
+      <creator>Lyvo</creator>
+      <title>Connection Lost</title>
+      <album>Chapter 1</album>
+      <annotation>http://www.jamendo.com Attribution 3.0 </annotation>
+      <meta rel="genre">Unknown</meta>
+      <trackNum>6</trackNum>
+      <duration>333841</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="copyright">2014-12-04T11:55:13+01:00 Lyvo. Licensed to the public under http://creativecommons.org/licenses/by/3.0/ verify at http://www.jamendo.com/album/141026/</meta>
+      <meta rel="bitrate">193</meta>
+    </track>
+  </trackList>
 </playlist>

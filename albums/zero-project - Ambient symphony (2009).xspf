@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>zero-project - Ambient symphony (2009)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNbDMmkdYv5aps72nwFDBEb7t9eYqVNXjAXarczfboMi8/zero-project%20-%2001%20-%20Intro.mp3</location>
+      <creator>zero-project</creator>
+      <title>Intro</title>
+      <album>Ambient symphony</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>1</trackNum>
+      <duration>194000</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">162</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNbDMmkdYv5aps72nwFDBEb7t9eYqVNXjAXarczfboMi8/zero-project%20-%2002%20-%20High%20hopes.mp3</location>
+      <creator>zero-project</creator>
+      <title>High hopes</title>
+      <album>Ambient symphony</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>2</trackNum>
+      <duration>308000</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNbDMmkdYv5aps72nwFDBEb7t9eYqVNXjAXarczfboMi8/zero-project%20-%2003%20-%20Twilight%20poem.mp3</location>
+      <creator>zero-project</creator>
+      <title>Twilight poem</title>
+      <album>Ambient symphony</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>3</trackNum>
+      <duration>202000</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">162</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNbDMmkdYv5aps72nwFDBEb7t9eYqVNXjAXarczfboMi8/zero-project%20-%2004%20-%20Breath%20of%20freedom.mp3</location>
+      <creator>zero-project</creator>
+      <title>Breath of freedom</title>
+      <album>Ambient symphony</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>4</trackNum>
+      <duration>290000</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNbDMmkdYv5aps72nwFDBEb7t9eYqVNXjAXarczfboMi8/zero-project%20-%2005%20-%20The%20silent%20force.mp3</location>
+      <creator>zero-project</creator>
+      <title>The silent force</title>
+      <album>Ambient symphony</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>5</trackNum>
+      <duration>330000</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNbDMmkdYv5aps72nwFDBEb7t9eYqVNXjAXarczfboMi8/zero-project%20-%2006%20-%20Battle%20at%20the%20misty%20valley.mp3</location>
+      <creator>zero-project</creator>
+      <title>Battle at the misty valley</title>
+      <album>Ambient symphony</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>6</trackNum>
+      <duration>138000</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">164</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNbDMmkdYv5aps72nwFDBEb7t9eYqVNXjAXarczfboMi8/zero-project%20-%2007%20-%20Dawn%20of%20a%20new%20era.mp3</location>
+      <creator>zero-project</creator>
+      <title>Dawn of a new era</title>
+      <album>Ambient symphony</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>7</trackNum>
+      <duration>240000</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">162</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNbDMmkdYv5aps72nwFDBEb7t9eYqVNXjAXarczfboMi8/zero-project%20-%2008%20-%20Path%20of%20loneliness.mp3</location>
+      <creator>zero-project</creator>
+      <title>Path of loneliness</title>
+      <album>Ambient symphony</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>8</trackNum>
+      <duration>396000</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmNbDMmkdYv5aps72nwFDBEb7t9eYqVNXjAXarczfboMi8/zero-project%20-%2009%20-%20Neverending%20dream.mp3</location>
+      <creator>zero-project</creator>
+      <title>Neverending dream</title>
+      <album>Ambient symphony</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Electronic</meta>
+      <trackNum>9</trackNum>
+      <duration>576000</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">160</meta>
+    </track>
+  </trackList>
+</playlist>

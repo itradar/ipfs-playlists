@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>The Kyoto Connection - Wake Up (2013)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/01%20Intro%20-%20The%20Way%20Of%20Waking%20Up%20%28feat.%20Alan%20Watts%29.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Intro - The Way Of Waking Up (feat. Alan Watts)</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>1</trackNum>
+      <duration>90026</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">333</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/02%20Geisha.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Geisha</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>2</trackNum>
+      <duration>267601</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">324</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/03%20Voyage%20I%20-%20Waterfall.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Voyage I - Waterfall</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>3</trackNum>
+      <duration>264381</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">324</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/04%20The%20Music%20In%20You.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>The Music In You</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>4</trackNum>
+      <duration>222897</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">325</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/05%20The%20Calm%20Before%20The%20Storm.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>The Calm Before The Storm</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>5</trackNum>
+      <duration>228965</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">325</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/06%20No%20Pain%20No%20Gain.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>No Pain, No Gain</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>6</trackNum>
+      <duration>303893</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">324</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/07%20Voyage%20II%20-%20Satori.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Voyage II - Satori</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>7</trackNum>
+      <duration>256084</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">324</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/08%20Reveal%20the%20Magic.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Reveal the Magic</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>8</trackNum>
+      <duration>293264</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">324</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/09%20Hachiko%20%28The%20Faithtful%20Dog%29.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Hachiko (The Faithtful Dog)</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>9</trackNum>
+      <duration>185252</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">326</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/10%20Wake%20Up.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Wake Up</title>
+      <album>Wake Up</album>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>10</trackNum>
+      <duration>251131</duration>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">324</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/11%20Voyage%20III%20-%20The%20Space%20Between%20Us.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Voyage III - The Space Between Us</title>
+      <album>Wake Up</album>
+      <annotation>http://www.thekyotoconnection.com</annotation>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>11</trackNum>
+      <duration>289793</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">324</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/12%20Ume%20No%20Kaori%20%28feat.%20Sunawai%29.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Ume No Kaori (feat. Sunawai)</title>
+      <album>Wake Up</album>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>12</trackNum>
+      <duration>334288</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">323</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmUTJHwXrZfnq3uu1ezYUAjN5SUEmGuS7Rvc2DmCZfM7uv/13%20Outro%20-%20Totally%20Here%20and%20Now%20%28feat.%20Alan%20Watts%29.mp3</location>
+      <creator>The Kyoto Connection</creator>
+      <title>Outro - Totally Here and Now (feat. Alan Watts)</title>
+      <album>Wake Up</album>
+      <meta rel="genre">Alternative</meta>
+      <trackNum>13</trackNum>
+      <duration>242339</duration>
+      <meta rel="year">2013</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">Facundo Arena</meta>
+      <meta rel="bitrate">325</meta>
+    </track>
+  </trackList>
+</playlist>

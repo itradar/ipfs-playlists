@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>zero-project - Autumn prelude (2009)</title>
+  <trackList>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmbZJ9nHBXugB4YweHNPHxyH7Agh5npG4PgYkp7cysGULt/zero-project%20-%2001%20-%20Princess%20of%20my%20heart.mp3</location>
+      <creator>zero-project</creator>
+      <title>Princess of my heart</title>
+      <album>Autumn prelude</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>1</trackNum>
+      <duration>356181</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmbZJ9nHBXugB4YweHNPHxyH7Agh5npG4PgYkp7cysGULt/zero-project%20-%2002%20-%20Autumn%20prelude.mp3</location>
+      <creator>zero-project</creator>
+      <title>Autumn prelude</title>
+      <album>Autumn prelude</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>2</trackNum>
+      <duration>388548</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmbZJ9nHBXugB4YweHNPHxyH7Agh5npG4PgYkp7cysGULt/zero-project%20-%2003%20-%20Under%20the%20same%20moon.mp3</location>
+      <creator>zero-project</creator>
+      <title>Under the same moon</title>
+      <album>Autumn prelude</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>3</trackNum>
+      <duration>393576</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmbZJ9nHBXugB4YweHNPHxyH7Agh5npG4PgYkp7cysGULt/zero-project%20-%2004%20-%20Nocturne.mp3</location>
+      <creator>zero-project</creator>
+      <title>Nocturne</title>
+      <album>Autumn prelude</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>4</trackNum>
+      <duration>416656</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+    <track>
+      <location>http://127.0.0.1:8080/ipfs/QmbZJ9nHBXugB4YweHNPHxyH7Agh5npG4PgYkp7cysGULt/zero-project%20-%2005%20-%20Eternity.mp3</location>
+      <creator>zero-project</creator>
+      <title>Eternity</title>
+      <album>Autumn prelude</album>
+      <annotation>www.zero-project.gr</annotation>
+      <meta rel="genre">Soundtrack</meta>
+      <trackNum>5</trackNum>
+      <duration>330954</duration>
+      <meta rel="year">2009</meta>
+      <meta rel="quality">Stereo, 44100 Hz</meta>
+      <meta rel="codec">MPEG-1 layer 3</meta>
+      <meta rel="composer">zero-project</meta>
+      <meta rel="copyright">zero-project</meta>
+      <meta rel="bitrate">161</meta>
+    </track>
+  </trackList>
+</playlist>
